@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jules
 
-I am a MSc Statistics student at Imperial College London, and will be using this github account as an archive for my projects.
+I am a MSc Stapistics student at Imperial College London, and will be using this github account as an archive for my projects.
 
 
 <!--
